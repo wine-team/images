@@ -5,11 +5,13 @@
 	<projects>
 	</projects>
 	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.wst.common.project.facet.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
 	</buildSpec>
 	<natures>
-<<<<<<< HEAD
-=======
 		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
->>>>>>> fe4815182063b73efc0130f2648ff5744190e9ee
 	</natures>
 </projectDescription>
